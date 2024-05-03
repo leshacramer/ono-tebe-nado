@@ -4,7 +4,7 @@ body {
 
 .header {
     display: grid;
-    grid-template-columns: 452px 148px 452px;
+    grid-template-columns: 458px 136px 458px;
     width: 1052px;
     height: 105px;
     margin: 92px 24px 96px 24px;
@@ -45,11 +45,6 @@ body {
 
 .header__link {
     text-decoration: underline;
-}
-
-.header__logo-image {
-    width: 148px;
-    height: 105px;
 }
 
 .contacts {
@@ -315,7 +310,6 @@ body {
 }
 
 .footer__menu {
-  font-weight: 400;
   font-size: 18px;
   line-height: 21px;
   text-align: center;
